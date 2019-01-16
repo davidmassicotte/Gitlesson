@@ -1,2 +1,1 @@
 New file to see how GitKraken works
-What happens when I put a new line?
