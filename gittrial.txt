@@ -1,3 +1,4 @@
 Trying this git stuff
 
 Second trial with git
+Now will it pick up this new line?
